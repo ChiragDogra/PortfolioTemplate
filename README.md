@@ -24,8 +24,6 @@ You can make it your own and here are the steps to do so.
 
 2. Clone this repository in your machine 
 ```git clone https://github.com/ChiragDogra/chiragsdogra.git```
-![image](https://user-images.githubusercontent.com/78541994/184536297-1dc20e20-ee42-497d-b053-8f1040aabada.png)
-
 
 3. Install dependencies
 Run `npm install` or `yarn install` in the project directory.
